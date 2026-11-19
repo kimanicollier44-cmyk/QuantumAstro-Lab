@@ -1,4 +1,4 @@
-![QuantumAstro-Lab cover](assets/cover.png)
+![QuantumAstro-Lab cover](QuantumAstro-Lab%20cover.png)
 
 # QuantumAstro-Lab 🌌⚛️
 
